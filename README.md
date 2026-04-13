@@ -40,7 +40,7 @@ To get started with the Expense Tracker app, follow these steps:
 1. **Clone the repository**:
 
    ```console
-   git clone https://github.com/Arghya-Dutta1/expense-tracker.git
+   git clone https://github.com/AnkitKumarChoudhary/expense-tracker.git
    ```
 2. **Open the index.html file in your preferred browser**
    You can open the HTML file directly in a browser or use a local development server like VS Code Live Server for a better development experience.
